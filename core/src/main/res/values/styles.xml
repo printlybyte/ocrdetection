@@ -1,0 +1,16 @@
+<!--
+  ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- 多任务窗口顶部颜色  导航栏颜色-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 默认activity系统栏目颜色 通知栏颜色 可以通过baseavtivity中设置单个通知栏背景-->
+        <item name="colorPrimaryDark">@color/p_color_black</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+
+    </style>
+</resources>
